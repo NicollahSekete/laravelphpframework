@@ -28,6 +28,13 @@
 @default
 <p>the color is green</p>
 @endswitch
+<hr>
+<h2>forms</h2>
+<form action="#" method="post">
+Name: <input type="text">
+<input type="submit">
+</form>
+<hr>
 
 </div>
 </div>
